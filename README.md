@@ -17,6 +17,6 @@ Hey, I'm a CS student from Germany and here you will find all my private project
 <a href="https://de.linkedin.com/in/alexander-laskevic-407a69212"><img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg"></a>
 
   
-<h3>Languages and Tools I'm using:<h3>
+<h3>Languages and tools I'm using:<h3>
 
 ![My Skills](https://skills.thijs.gg/icons?i=html,css,figma,js,angular,react,laravel,mysql,cpp,py,linux)
