@@ -1,4 +1,9 @@
 <h1 align="center">👋 Hi, I’m Alex</h1>
+<span align="right">
+
+![brightgreen](https://komarev.com/ghpvc/?username=aLaskevic)
+
+</span>
 <h3 align="center"> A inquisitive Computer Science student</h3>
 <p>
 Hey, I'm a CS student from Germany and here you will find my private projects. If you have any question feel free to contact me!
