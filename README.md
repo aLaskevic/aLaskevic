@@ -6,7 +6,7 @@
 </span>
 <h3 align="center"> A inquisitive Computer Science student</h3>
 <p>
-Hey, I'm a CS student from Germany and here you will find my private projects. If you have any question feel free to contact me!
+Hey, I'm a CS student from Germany and here you will find all my private projects. If you have any question feel free to contact me!
 
 - 🌱 I’m currently learning <b> Laravel & React </b>
 - 📫 Ask me about <b> CS-Topics and Full-Stack development </b>
