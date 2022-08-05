@@ -14,7 +14,7 @@ Hey, I'm a CS student from Germany and here you will find my private projects. I
 <h3>Contact me!<h3>
   
 <a href="mailto:al.laskevic@gmail.com"><img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Gmail.svg"></a>
-<a href="https://www.linkedin.com/in/alexander-laskevic><img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg"></a>
+<a href="https://www.linkedin.com/in/alexander-laskevic"><img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg"></a>
 
   
 <h3>Languages and Tools I'm using:<h3>
