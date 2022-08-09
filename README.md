@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I’m Alex</h1>
-<h3 align="center"> A inquisitive Computer Science student</h3>
+<h3 align="center"> An inquisitive Computer Science student</h3>
 <p>
 Hey, I'm a CS student from Germany and here you can find all my private projects. If you have any question feel free to contact me!
 
